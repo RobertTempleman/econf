@@ -1,0 +1,2 @@
+# econf
+.emacs.d directory
